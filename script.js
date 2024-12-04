@@ -1,1 +1,4 @@
-console.log("Abdul Raqeeb");
+Console.log("Abdul Raqeeb");
+const raqeeb = "korejo";
+
+console.log(raqeeb);
